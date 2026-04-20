@@ -4,7 +4,7 @@
   "description": "MyFabric Backend API - Node.js + Express + MongoDB",
   "main": "server.js",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.x"
   },
   "scripts": {
     "dev": "nodemon server.js",
